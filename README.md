@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a web security and penetration testing enthusiast, a member of HASHTEAM, and currently an undergraduate student at Shandong University.
+
 
 <!--
 **sangnigege/sangnigege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
