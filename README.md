@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a web security and penetration testing enthusiast, a member of HASHTEAM.
+I am a web security and penetration testing enthusiast.
 
 
 <!--
