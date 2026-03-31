@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a web security and penetration testing enthusiast, a member of HASHTEAM, and currently an undergraduate student at Shandong University.
+I am a web security and penetration testing enthusiast, a member of HASHTEAM.
 
 
 <!--
